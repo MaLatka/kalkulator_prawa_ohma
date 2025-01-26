@@ -1,0 +1,2 @@
+# kalkulator_prawa_ohma
+symulacja_zjawiska_prawo_ohma
